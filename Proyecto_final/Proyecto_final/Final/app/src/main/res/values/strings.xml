@@ -1,0 +1,79 @@
+<resources>
+
+    <string name="app_name">SSH</string>
+
+    <!--Login -->
+    <string name="tvUser">Usuario:</string>
+    <string name="tvPass">Contraseña:</string>
+    <string name="itemHome">Principal</string>
+    <string name="itemConsulta">Consultas</string>
+    <string name="itemPerfil">Peril</string>
+    <string name="itemCerrar">Salir</string>
+    <!--Main-->
+    <string name="tvUserMain"></string>
+    <!--PRincipal-->
+    <string name="tvBitacoras">Bitácora del Día</string>
+    <string name="tvFecha"></string>
+    <string name="tvHora"></string>
+    <string name="btnVisitante">Visitante</string>
+    <string name="btnMensajeria">Mensajería</string>
+    <string name="btnVehiculo">Vehículo</string>
+    <string name="btnSalida">Salida</string>
+    <!--VIsita-->
+    <string name="lvVista">Eventos de Día</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--  Sofia   -->
+    <string name="btnIniciar">Iniciar Sesion</string>
+    <string name="btnRegis">Registarse</string>
+    <string name="etNombreEmpresa">Nombre Empresa</string>
+    <string name="etNumeroCelualr">Número Celular</string>
+    <string name="etNit">NIT</string>
+    <string name="etCorreo">Correo Electrónico</string>
+    <string name="btnSiguienteRegis">Siguiente</string>
+    <string name="etMensaje">Escriba aquí su mensaje o sugerencia</string>
+    <string name="etCorreoElectronico">Escriba su correo electrónico</string>
+    <string name="etNombreCompleto">Escriba su nombre completo</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnDevolverce">Volver</string>
+    <!--Harold -->
+    <string name="loginDescription">¡Bienvenido!</string>
+    <string name="loginCorreo">Correo Electrónico</string>
+    <string name="loginPass">Contraseña</string>
+    <string name="olvidoPass">¿Olvidó su contraseña?</string>
+    <string name="btnRegistrarse">Registrarse aquí</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+    <string name="tvCantidadPaquetes">Cantidad de paquetes</string>
+    <string name="tvDimension">Dimensiones del pedido (en total)</string>
+    <string name="EtDimensionAncho">Ancho</string>
+    <string name="EtDimensionAlto">Alto</string>
+    <string name="tvDireccionPaquete">Dirección</string>
+    <string name="etBarrioPaquete">Barrio</string>
+    <string name="etCiudadPaquete">Ciudad</string>
+    <string name="tvNombreRecibe">Nombre de quién recibe</string>
+    <string name="tvCelularRecibe">Celular de quién recibe</string>
+    <string name="btnSolicitarEnvio">Solicitar Envío</string>
+    <string name="tvTituloPreguntas">Preguntas Frecuentes</string>
+    <string name="btnPregunta1">¿Cómo solicito un envío de mercancia?</string>
+    <string name="btnPregunta2">¿Cómo se si el pedido ya fue enviado?</string>
+    <string name="btnPregunta3">¿Cómo miro la información de mi pedido?</string>
+    <string name="btnVolverPreguntas">Volver</string>
+    <string name="btnPreguntasFrecuentes">Preguntas Frecuentes</string>
+
+    <!--Santiago -->
+    <string name="tvRecuperarPass">Recuperar contraseña</string>
+    <string name="tvMenu">Menú</string>
+    <string name="tvHistorialEnvios">Historial de envios</string>
+    <string name="tvBuzonSugerencias">Buzón de sugerencias</string>
+    <string name="tvSolicitarMercancia">Solicitar mercancía</string>
+    <string name="etNuevaPass">Nueva contraseña</string>
+    <string name="etConfirmarNuevaPass">Confirmar contraseña</string>
+    <string name="etUsuarioPass">Usuario</string>
+    <string name="btnConfirmarPass">Confirmar</string>
+    <string name="btnHistorialEnvios">Historial de envíos</string>
+    <string name="btnSolicitarMercancia">Solicitar Mercancía</string>
+    <string name="btnBuzonSugerencias">Buzón de Sugerencias</string>
+    <string name="btnSalir">Salir</string>
+</resources>
